@@ -146,6 +146,7 @@ const styles = StyleSheet.create({
     color: COLOR.white,
     alignSelf: 'center',
     textAlign: 'center',
+    paddingVertical: 8,
   },
   descTxt: {
     fontSize: 12,
@@ -160,5 +161,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginTop: 30,
+    marginBottom: 10,
   },
 })
